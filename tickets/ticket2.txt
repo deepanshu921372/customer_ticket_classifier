@@ -1,0 +1,8 @@
+Hi team,
+
+Your app keeps crashing every time I try to log in using Google Sign-In. I have tried reinstalling the app twice and clearing the cache, but the issue is still there. I am on Android 14, OnePlus device, app version 5.2.1.
+
+Can someone from the tech team look into this? I need to access my account to place an order.
+
+Thanks,
+Priya
